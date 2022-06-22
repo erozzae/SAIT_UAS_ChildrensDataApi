@@ -81,10 +81,10 @@
 
             <div class="content">
                 
-               <Button  style="background: transparent;border: none;">
+               {{-- <Button  style="background: transparent;border: none;">
                    <a href="{{ route('childrensData.index') }}">
                     <img style="width: 200px" src="{{ asset('style/assets/img/data.png') }}" alt="error"></a>
-               </Button>
+               </Button> --}}
             </div>
         </div>
     </body>
